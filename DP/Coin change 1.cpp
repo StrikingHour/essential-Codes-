@@ -1,3 +1,5 @@
+// Using each coins only one time we have to find out if we can get a sum or not
+
 #include<bits/stdc++.h>
 #define ll long long
 #define N ((int)(1e5 + 5))
